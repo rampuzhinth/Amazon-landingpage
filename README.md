@@ -1,2 +1,2 @@
-# Amazon-landingpage
-Landing page using HTML and CSS
+# Amazon Landing Page
+Basic landing page using HTML and CSS.
